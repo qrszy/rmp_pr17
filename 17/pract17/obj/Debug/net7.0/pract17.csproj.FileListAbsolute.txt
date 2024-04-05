@@ -1,0 +1,11 @@
+C:\Users\st325l03\Documents\ne nn\pract17\bin\Debug\net7.0\pract17.deps.json
+C:\Users\st325l03\Documents\ne nn\pract17\bin\Debug\net7.0\pract17.dll
+C:\Users\st325l03\Documents\ne nn\pract17\bin\Debug\net7.0\pract17.pdb
+C:\Users\st325l03\Documents\ne nn\pract17\obj\Debug\net7.0\pract17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\st325l03\Documents\ne nn\pract17\obj\Debug\net7.0\pract17.AssemblyInfoInputs.cache
+C:\Users\st325l03\Documents\ne nn\pract17\obj\Debug\net7.0\pract17.AssemblyInfo.cs
+C:\Users\st325l03\Documents\ne nn\pract17\obj\Debug\net7.0\pract17.csproj.CoreCompileInputs.cache
+C:\Users\st325l03\Documents\ne nn\pract17\obj\Debug\net7.0\pract17.dll
+C:\Users\st325l03\Documents\ne nn\pract17\obj\Debug\net7.0\refint\pract17.dll
+C:\Users\st325l03\Documents\ne nn\pract17\obj\Debug\net7.0\pract17.pdb
+C:\Users\st325l03\Documents\ne nn\pract17\obj\Debug\net7.0\ref\pract17.dll
